@@ -1,0 +1,21 @@
+<svg id="settings-logout-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Group_9423" data-name="Group 9423" transform="translate(-16 -364)">
+    <g id="Group_9407" data-name="Group 9407" transform="translate(0 56)">
+      <g id="Group_9404" data-name="Group 9404" transform="translate(0 72)">
+        <rect id="Rectangle_8439" data-name="Rectangle 8439" width="32" height="32" transform="translate(16 236)" fill="none"/>
+      </g>
+    </g>
+  </g>
+  <g id="sign-out" transform="translate(4 4)">
+    <g id="Group_6793" data-name="Group 6793" transform="translate(7.714)">
+      <g id="Group_6792" data-name="Group 6792">
+        <path id="Path_1625" data-name="Path 1625" d="M167.3,0H156.161a2.572,2.572,0,0,0-2.572,2.572V7.715a.857.857,0,0,0,1.714,0V2.572a.857.857,0,0,1,.857-.857H167.3a.857.857,0,0,1,.857.857V21.429a.857.857,0,0,1-.857.857H156.161a.857.857,0,0,1-.857-.857V16.286a.857.857,0,0,0-1.714,0v5.143A2.572,2.572,0,0,0,156.161,24H167.3a2.572,2.572,0,0,0,2.572-2.572V2.572A2.571,2.571,0,0,0,167.3,0Z" transform="translate(-153.589 0)" fill="#b5b5b5"/>
+      </g>
+    </g>
+    <g id="Group_6795" data-name="Group 6795" transform="translate(0 6.868)">
+      <g id="Group_6794" data-name="Group 6794">
+        <path id="Path_1626" data-name="Path 1626" d="M17.153,141.019H2.936L5.759,138.2a.857.857,0,0,0-1.212-1.212L.261,141.27a.847.847,0,0,0-.185.279.86.86,0,0,0,.186.934l4.286,4.286a.857.857,0,1,0,1.233-1.191l-.021-.021-2.824-2.824H17.153a.857.857,0,1,0,0-1.714Z" transform="translate(-0.011 -136.744)" fill="#b5b5b5"/>
+      </g>
+    </g>
+  </g>
+</svg>

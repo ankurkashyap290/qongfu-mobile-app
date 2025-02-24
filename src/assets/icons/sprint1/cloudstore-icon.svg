@@ -1,0 +1,10 @@
+<svg id="cloudstore-icon" xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72">
+  <rect id="Rectangle_8901" data-name="Rectangle 8901" width="72" height="72" fill="#fff"/>
+  <g id="server" transform="translate(9.759 9.759)">
+    <path id="Path_2728" data-name="Path 2728" d="M6.789,377.313H.4V391H15.519v-10.87H8.53Z" transform="translate(-0.404 -338.957)" fill="#61c2ff"/>
+    <path id="Path_2729" data-name="Path 2729" d="M187.637,377.313h-6.385V391h15.115v-10.87h-6.989Z" transform="translate(-162.868 -338.957)" fill="#61c2ff"/>
+    <path id="Path_2730" data-name="Path 2730" d="M371.033,380.135l-1.741-2.822h-6.385V391h15.115v-10.87Z" transform="translate(-326.057 -338.957)" fill="#61c2ff"/>
+    <path id="Path_2731" data-name="Path 2731" d="M62.837,220.723H78.181v5.313h3.04v-5.313H96.565v5.313H99.6v-8.353H81.221v-5.134h-3.04v5.134H59.8v8.353h3.04Z" transform="translate(-53.759 -190.942)" fill="#61c2ff"/>
+    <path id="Path_2732" data-name="Path 2732" d="M139.659,18.659a4,4,0,0,0,0-8H139.5a4.526,4.526,0,0,0-6.134-6.156V4a3.995,3.995,0,1,0-7.989,0v.509a4.526,4.526,0,0,0-6.134,6.156h-.161a4,4,0,0,0,0,8h20.578Z" transform="translate(-103.429 0)" fill="#61c2ff"/>
+  </g>
+</svg>

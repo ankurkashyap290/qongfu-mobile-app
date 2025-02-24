@@ -1,0 +1,11 @@
+<svg id="dashboard-water-icon" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <rect id="Rectangle_9414" data-name="Rectangle 9414" width="48" height="48" fill="none"/>
+  <g id="Group_10390" data-name="Group 10390" transform="translate(-253 -325)">
+    <path id="Path_2887" data-name="Path 2887" d="M127.018,409.4H115.6l.439,7.2a1.244,1.244,0,0,0,1.22,1.147h19.517A1.244,1.244,0,0,0,138,416.6l.439-7.2Z" transform="translate(150.403 -48.106)" fill="#e0f4fe"/>
+    <path id="Path_2888" data-name="Path 2888" d="M266.979,416.6l.439-7.2H256v8.344h9.759A1.244,1.244,0,0,0,266.979,416.6Z" transform="translate(21.421 -48.106)" fill="#b7e4f8"/>
+    <path id="Path_2889" data-name="Path 2889" d="M116.583,0h-24.4a1.225,1.225,0,0,0-1.22,1.293L91.333,7.4l3.489,2.44,9.563,2.44,9.563,2.44,3.172-2.44L117.8,1.293A1.211,1.211,0,0,0,116.583,0Z" transform="translate(173.036 328)" fill="#f3fbff"/>
+    <path id="Path_2890" data-name="Path 2890" d="M268.735,12.28l.683-10.987A1.211,1.211,0,0,0,268.2,0H256V12.28l9.564,2.44Z" transform="translate(21.421 328)" fill="#e0f4fe"/>
+    <path id="Path_2891" data-name="Path 2891" d="M118.117,95.879a19.941,19.941,0,0,1-9.563-2.586A21.832,21.832,0,0,0,98.99,91H95.5l1.635,25.893c0,1.089,2.28,3.464,5.319,3.464h12.2c3.032,0,5.319-2.37,5.319-3.464l1.317-21.014Z" transform="translate(168.867 244.4)" fill="#b7e4f8"/>
+    <path id="Path_2892" data-name="Path 2892" d="M267.418,142.8l1.317-21.014h-3.172A19.941,19.941,0,0,1,256,119.2v27.064h6.1C265.132,146.264,267.418,143.894,267.418,142.8Z" transform="translate(21.421 218.494)" fill="#6fc8f1"/>
+  </g>
+</svg>

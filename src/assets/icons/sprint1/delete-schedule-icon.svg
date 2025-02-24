@@ -1,0 +1,13 @@
+<svg id="delete-schedule-icon" xmlns="http://www.w3.org/2000/svg" width="136" height="136" viewBox="0 0 136 136">
+  <rect id="Rectangle_9393" data-name="Rectangle 9393" width="136" height="136" fill="none"/>
+  <g id="Group_10546" data-name="Group 10546" transform="translate(-139 -185)">
+    <g id="Group_10111" data-name="Group 10111" transform="translate(0 -49.5)">
+      <g id="Ellipse_869" data-name="Ellipse 869" transform="translate(147 242.5)" fill="none" stroke="#ef5e5e" stroke-width="5">
+        <circle cx="60" cy="60" r="60" stroke="none"/>
+        <circle cx="60" cy="60" r="57.5" fill="none"/>
+      </g>
+      <line id="Line_1068" data-name="Line 1068" x1="72" y2="88" transform="translate(171 260)" fill="none" stroke="#ef5e5e" stroke-width="5"/>
+    </g>
+    <path id="Subtraction_48" data-name="Subtraction 48" d="M-6278.217-18628.621h-37.415l2.9-3.5h34.515a3.72,3.72,0,0,0,3.717-3.717v-28.984a.549.549,0,0,0-.549-.549H-6285.2l11.192-13.514a7.239,7.239,0,0,1,3.007,5.859v37.188A7.227,7.227,0,0,1-6278.217-18628.621Zm-46.416-1.877v0a7.221,7.221,0,0,1-2.369-5.34v-37.187a7.227,7.227,0,0,1,7.219-7.219h5.032v-2.625a1.752,1.752,0,0,1,1.75-1.75,1.753,1.753,0,0,1,1.751,1.75v2.625h24.5v-2.625a1.752,1.752,0,0,1,1.75-1.75,1.753,1.753,0,0,1,1.751,1.75v2.217c-3.455,4.209-7.568,9.209-12.573,15.281h-27.13a.55.55,0,0,0-.549.549v28.984a3.687,3.687,0,0,0,1.1,2.643c-.425.512-.834,1.006-1.213,1.465l-.6.727-.42.506Z" transform="translate(6506 18909.621)" fill="#ef5e5e"/>
+  </g>
+</svg>

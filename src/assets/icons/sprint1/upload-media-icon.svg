@@ -1,0 +1,14 @@
+<svg id="upload-media-icon" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <rect id="Rectangle_9390" data-name="Rectangle 9390" width="40" height="40" fill="none"/>
+  <g id="Group_10545" data-name="Group 10545" transform="translate(-56 -120)">
+    <path id="Subtraction_155" data-name="Subtraction 155" d="M-3796.077-2042.926h-14.87a4.057,4.057,0,0,1-4.053-4.053v-12.969a4.057,4.057,0,0,1,4.053-4.053h19.56a4.057,4.057,0,0,1,4.053,4.053v8.455a6.418,6.418,0,0,0-1.621-.555v-7.9a2.435,2.435,0,0,0-2.432-2.432h-19.56a2.435,2.435,0,0,0-2.432,2.432v12.969a2.434,2.434,0,0,0,2.432,2.431h14.35a6.428,6.428,0,0,0,.519,1.62Zm-9.143-4.95v-11.017l9.753,5.418-9.751,5.6Zm1.621-8.262h0v5.462l4.835-2.777-4.835-2.686Z" transform="translate(3875 2191)" fill="#0092dd"/>
+    <g id="Ellipse_946" data-name="Ellipse 946" transform="translate(77.551 138.077)" fill="none" stroke="#0092dd" stroke-width="1.5">
+      <circle cx="7.224" cy="7.224" r="7.224" stroke="none"/>
+      <circle cx="7.224" cy="7.224" r="6.474" fill="none"/>
+    </g>
+    <g id="Group_7558" data-name="Group 7558" transform="translate(81.404 141.93)">
+      <line id="Line_775" data-name="Line 775" y2="6.743" transform="translate(3.371)" fill="none" stroke="#0092dd" stroke-linecap="round" stroke-width="1.7"/>
+      <line id="Line_776" data-name="Line 776" y2="6.743" transform="translate(6.743 3.371) rotate(90)" fill="none" stroke="#0092dd" stroke-linecap="round" stroke-width="1.7"/>
+    </g>
+  </g>
+</svg>

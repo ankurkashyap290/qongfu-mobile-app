@@ -1,0 +1,13 @@
+<svg id="flag_oman_32x32" data-name="flag oman 32x32" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="oman_1_" data-name="oman (1)" transform="translate(1 1)">
+    <circle id="Ellipse_824" data-name="Ellipse 824" cx="15" cy="15" r="15" transform="translate(0)" fill="#f0f0f0"/>
+    <g id="Group_8881" data-name="Group 8881" transform="translate(0 1.824)">
+      <path id="Path_2552" data-name="Path 2552" d="M0,43.786A14.336,14.336,0,0,0,7.826,56.445V31.127A14.336,14.336,0,0,0,0,43.786Z" transform="translate(0 -31.127)" fill="#d80027"/>
+      <path id="Path_2553" data-name="Path 2553" d="M29.067,177.392a15.055,15.055,0,0,0,0-10.435H.933a15.054,15.054,0,0,0,0,10.435L15,178.7Z" transform="translate(0 -159.562)" fill="#d80027"/>
+    </g>
+    <path id="Path_2554" data-name="Path 2554" d="M29.991,354.826a15.005,15.005,0,0,0,14.067-9.783H15.924A15.005,15.005,0,0,0,29.991,354.826Z" transform="translate(-14.991 -325.86)" fill="#6da544"/>
+    <path id="Path_2555" data-name="Path 2555" d="M0,22.785A14.568,14.568,0,0,0,11.087,36.751V8.819A14.568,14.568,0,0,0,0,22.785Z" transform="translate(0 -8.302)" fill="#d80027"/>
+    <path id="Path_2556" data-name="Path 2556" d="M82.525,90.426l-1.383-1.383-.922.922-.922-.922-1.383,1.383.922.922-.922.922L79.3,93.655l.922-.922.922.922,1.383-1.383-.922-.922Z" transform="translate(-73.348 -84.03)" fill="#f0f0f0"/>
+  </g>
+  <rect id="Rectangle_5" data-name="Rectangle 5" width="32" height="32" fill="none"/>
+</svg>

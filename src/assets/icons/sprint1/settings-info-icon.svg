@@ -1,0 +1,14 @@
+<svg id="settings-info-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Group_9415" data-name="Group 9415" transform="translate(-16 -308)">
+    <g id="Group_9404" data-name="Group 9404" transform="translate(0 72)">
+      <rect id="Rectangle_8439" data-name="Rectangle 8439" width="32" height="32" transform="translate(16 236)" fill="none"/>
+    </g>
+  </g>
+  <g id="info_1_" data-name="info (1)" transform="translate(4 4)">
+    <g id="Group_6796" data-name="Group 6796">
+      <path id="Path_1627" data-name="Path 1627" d="M11.829,0A11.829,11.829,0,1,0,23.658,11.829,11.843,11.843,0,0,0,11.829,0Zm0,22.2A10.373,10.373,0,1,1,22.2,11.829,10.385,10.385,0,0,1,11.829,22.2Z" fill="#b5b5b5"/>
+      <ellipse id="Ellipse_177" data-name="Ellipse 177" cx="1.217" cy="1.217" rx="1.217" ry="1.217" transform="translate(10.8 5.895)" fill="#b5b5b5"/>
+      <path id="Path_1628" data-name="Path 1628" d="M30.865,28.342a.728.728,0,0,0-.728.728v6.187a.728.728,0,0,0,1.456,0V29.07A.728.728,0,0,0,30.865,28.342Z" transform="translate(-19.168 -18.026)" fill="#b5b5b5"/>
+    </g>
+  </g>
+</svg>

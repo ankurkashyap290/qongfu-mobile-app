@@ -1,0 +1,16 @@
+<svg id="dashboard-completed-icon" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <rect id="Rectangle_9422" data-name="Rectangle 9422" width="48" height="48" fill="none"/>
+  <g id="Group_10570" data-name="Group 10570" transform="translate(-156 -169)">
+    <path id="Path_3005" data-name="Path 3005" d="M44,68.867V97.4a3.872,3.872,0,0,1-3.867,3.867H3.867A3.872,3.872,0,0,1,0,97.4V68.867A3.872,3.872,0,0,1,3.867,65H40.133A3.872,3.872,0,0,1,44,68.867Z" transform="translate(158 111.438)" fill="#eef4ff"/>
+    <path id="Path_3007" data-name="Path 3007" d="M44,68.867v6.359a1.29,1.29,0,0,1-1.289,1.289H1.289A1.29,1.29,0,0,1,0,75.227V68.867A3.872,3.872,0,0,1,3.867,65H40.133A3.872,3.872,0,0,1,44,68.867Z" transform="translate(158 111.438)" fill="#dd5958"/>
+    <g id="Group_10409" data-name="Group 10409" transform="translate(0 -6.969)">
+      <path id="Path_3010" data-name="Path 3010" d="M243.578,26.289v6.875a1.289,1.289,0,0,1-2.578,0V26.289a1.289,1.289,0,0,1,2.578,0Z" transform="translate(-62.289 154.969)" fill="#ffe278"/>
+      <path id="Path_3011" data-name="Path 3011" d="M257.289,26.289v6.875A1.29,1.29,0,0,1,256,34.453V25A1.29,1.29,0,0,1,257.289,26.289Z" transform="translate(-76 154.969)" fill="#ffb454"/>
+      <path id="Path_3055" data-name="Path 3055" d="M243.578,26.289v6.875a1.289,1.289,0,0,1-2.578,0V26.289a1.289,1.289,0,0,1,2.578,0Z" transform="translate(-76.289 154.969)" fill="#ffe278"/>
+      <path id="Path_3056" data-name="Path 3056" d="M257.289,26.289v6.875A1.29,1.29,0,0,1,256,34.453V25A1.29,1.29,0,0,1,257.289,26.289Z" transform="translate(-90 154.969)" fill="#ffb454"/>
+      <path id="Path_3057" data-name="Path 3057" d="M243.578,26.289v6.875a1.289,1.289,0,0,1-2.578,0V26.289a1.289,1.289,0,0,1,2.578,0Z" transform="translate(-48.289 154.969)" fill="#ffe278"/>
+      <path id="Path_3058" data-name="Path 3058" d="M257.289,26.289v6.875A1.29,1.29,0,0,1,256,34.453V25A1.29,1.29,0,0,1,257.289,26.289Z" transform="translate(-62 154.969)" fill="#ffb454"/>
+    </g>
+    <path id="tick" d="M.728,10.144a1.083,1.083,0,0,0,.118,1.528l5.347,4.584a1.076,1.076,0,0,0,.7.261c.032,0,.064,0,.1,0a1.079,1.079,0,0,0,.742-.391L16.88,4.989a1.085,1.085,0,0,0-.15-1.526L15.057,2.088a1.085,1.085,0,0,0-1.525.15L6.493,10.8,3.665,8.381A1.086,1.086,0,0,0,2.137,8.5Z" transform="translate(172.483 189.189)" fill="#54b948"/>
+  </g>
+</svg>

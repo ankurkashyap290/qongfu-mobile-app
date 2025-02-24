@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "449077099829",
+    "firebase_url": "https://qongfu-4a01b.firebaseio.com",
+    "project_id": "qongfu-4a01b",
+    "storage_bucket": "qongfu-4a01b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449077099829:android:b4dba0f05f33cad44ce07c",
+        "android_client_info": {
+          "package_name": "com.qongfu.qongfu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449077099829-774882fq120n25lrjicjqlao1aau3gjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNJx2GtWOnZw_HHZ8zjBSzAPWKxmf3hqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449077099829-774882fq120n25lrjicjqlao1aau3gjb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "449077099829-711h7ldlbn6237p2c18ndeljp6q7iju3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qongfu.qongfu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

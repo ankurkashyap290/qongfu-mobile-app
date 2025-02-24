@@ -1,0 +1,9 @@
+<svg id="more-info-client-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_9383" data-name="Rectangle 9383" width="24" height="24" fill="none"/>
+  <g id="man-user" transform="translate(-36.895 3)">
+    <path id="Path_2448" data-name="Path 2448" d="M108.159,8.8c2,0,3.624-1.971,3.624-4.4S111.25,0,108.159,0s-3.624,1.971-3.624,4.4S106.158,8.8,108.159,8.8Z" transform="translate(-59.418)" fill="#919191"/>
+    <path id="Path_2449" data-name="Path 2449" d="M41.9,300.448c0-.148,0-.042,0,0Z" transform="translate(0 -284.924)" fill="#919191"/>
+    <path id="Path_2450" data-name="Path 2450" d="M308.085,301.621c0-.041,0-.281,0,0Z" transform="translate(-252.5 -285.981)" fill="#919191"/>
+    <path id="Path_2451" data-name="Path 2451" d="M55.589,183.945c-.067-4.235-.62-5.441-4.852-6.205a2.973,2.973,0,0,1-3.969,0c-4.186.755-4.773,1.944-4.85,6.068-.006.337-.009.354-.01.315,0,.073,0,.209,0,.445,0,0,1.008,2.031,6.844,2.031s6.844-2.031,6.844-2.031c0-.152,0-.257,0-.329A2.722,2.722,0,0,1,55.589,183.945Z" transform="translate(-0.012 -168.599)" fill="#919191"/>
+  </g>
+</svg>

@@ -1,0 +1,238 @@
+import {StyleSheet} from 'react-native';
+import theme from './theme.style';
+
+const styles = StyleSheet.create({
+  topBarContainer: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    elevation: 2,
+    backgroundColor: '#fff',
+  },
+  topBarTitle: {
+    fontSize: 18,
+    color: theme.PRIMARY_COLOR,
+  },
+  titleRow: {
+    flexDirection: 'row',
+  },
+  shareMenuListItem: {
+    fontSize: 16,
+    color: theme.SECONDARY_COLOR,
+  },
+  shareMenu: {
+    width: 150,
+    marginTop: 4,
+    marginLeft: 10,
+    paddingLeft: 10,
+    paddingRight: 10,
+  },
+  imageContainer: {
+    flexDirection: 'column',
+    height: 200,
+    position: 'relative',
+  },
+  image: {
+    flex: 1,
+    resizeMode: 'cover',
+  },
+  headerContainer: {
+    elevation: 1,
+    marginBottom: 10,
+    flexDirection: 'column',
+    alignItems: 'center',
+  },
+  headerAvatar: {
+    position: 'absolute',
+    bottom: 0,
+    left: 0,
+    width: '100%',
+    alignItems: 'center',
+    // backgroundColor: 'red',
+    zIndex: 1,
+  },
+  headerProfile: {
+    alignItems: 'center',
+    top: 60,
+  },
+  userName: {
+    fontSize: 24,
+    color: '#2b2b2b',
+  },
+  userLocation: {
+    fontSize: 13,
+    color: '#474747',
+  },
+  profileHeadings: {
+    fontSize: 28,
+    color: '#474747',
+    marginLeft: 20,
+    marginBottom: 10,
+  },
+  userBio: {
+    fontSize: 15,
+    color: '#474747',
+    marginLeft: 30,
+    marginRight: 30,
+    marginTop: 10,
+    marginBottom: 15,
+  },
+  emptySection: {
+    fontSize: 20,
+    color: '#e5e3e3',
+    margin: 40,
+    textAlign: 'center',
+  },
+  lifestyleAndQongfuContain: {
+    flexDirection: 'row',
+    marginTop: 10,
+    flex: 1,
+    flexWrap: 'wrap',
+    marginLeft: 30,
+  },
+  lifestyleChip: {
+    borderRadius: 8,
+    marginRight: 10,
+    marginTop: 10,
+    padding: 9,
+  },
+  lifestyleChipText: {
+    color: '#fff',
+    fontWeight: 'bold',
+    fontSize: 16,
+  },
+  qongfuChip: {
+    marginRight: 10,
+    marginTop: 10,
+    padding: 2,
+  },
+  qongfuChipText: {
+    color: '#fff',
+    fontSize: 14,
+    borderRadius: 10,
+  },
+  amenityLabel: {
+    fontSize: 16,
+    color: '#333333',
+    marginTop: 2,
+    marginLeft: 5,
+    width: 150,
+    textTransform: 'capitalize',
+  },
+  moreInfoSection: {
+    flexDirection: 'row',
+    marginLeft: 30,
+    marginTop: 10,
+  },
+  divider: {
+    margin: 20,
+    height: 2,
+  },
+  margin: {
+    marginTop: 60,
+  },
+  cameraIconCt: {
+    position: 'absolute',
+    // left: 0,
+    // top: 0,
+    bottom: 0,
+    left: 30,
+    padding: 0,
+    width: '100%',
+    alignItems: 'center',
+    zIndex: 99,
+  },
+  cameraIcon: {
+    backgroundColor: '#000',
+    opacity: 0.5,
+    borderRadius: 5,
+    paddingLeft: 12,
+    paddingRight: 12,
+    paddingTop: 6,
+    paddingBottom: 6,
+  },
+  cameraIconContainer: {
+    position: 'absolute',
+    bottom: 0,
+    left: 40,
+    width: '100%',
+    flex: 1,
+    alignItems: 'center',
+    zIndex: 99,
+    // backgroundColor: 'green',
+  },
+  cameraCoverIcon: {
+    position: 'absolute',
+    right: 10,
+    top: 10,
+    alignItems: 'center',
+    zIndex: 99,
+  },
+  editIconContainer: {
+    right: 0,
+    position: 'absolute',
+
+    marginRight: 5,
+    marginTop: 5,
+    zIndex: 99,
+  },
+  editIconSurface: {
+    elevation: 2,
+    padding: 10,
+    borderRadius: 5,
+    borderColor: '#fff',
+    borderWidth: 1,
+    backgroundColor: theme.PRIMARY_COLOR,
+  },
+  editIcon: {
+    color: '#fff',
+    height: 36,
+    width: 45,
+    minWidth: 45,
+  },
+  QongfusContainer: {
+    flexDirection: 'row',
+    marginTop: 10,
+    flex: 1,
+    flexWrap: 'wrap',
+    marginLeft: 30,
+    height: 150,
+    overflow: 'hidden',
+  },
+  QongfusContainerOverflow: {
+    flexDirection: 'row',
+    marginTop: 10,
+    flex: 1,
+    flexWrap: 'wrap',
+    marginLeft: 30,
+  },
+  moreButton: {
+    flexDirection: 'row',
+    flex: 1,
+    flexWrap: 'wrap',
+    marginLeft: 30,
+  },
+  updateButtonContainer: {
+    alignItems: 'center',
+    marginTop: 40,
+  },
+  successDialogHeading: {
+    fontSize: 18,
+    color: theme.PRIMARY_COLOR,
+    textAlign: 'center',
+    marginTop: 20,
+  },
+  successButton: {
+    backgroundColor: theme.PRIMARY_COLOR,
+    borderRadius: 10,
+    width: 200,
+    marginBottom: 20,
+  },
+  successButtonLable: {
+    fontSize: 18,
+    paddingBottom: 10,
+    paddingTop: 10,
+    textTransform: 'none',
+  },
+});
+
+export default styles;

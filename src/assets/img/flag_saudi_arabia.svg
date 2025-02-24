@@ -1,0 +1,14 @@
+<svg id="flag_saudi_arabia_32x32" data-name="flag saudi arabia 32x32" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="saudi-arabia_1_" data-name="saudi-arabia (1)" transform="translate(1 1)">
+    <circle id="Ellipse_822" data-name="Ellipse 822" cx="15" cy="15" r="15" fill="#6da544"/>
+    <g id="Group_8880" data-name="Group 8880" transform="translate(8.147 9.828)">
+      <path id="Path_2547" data-name="Path 2547" d="M144.7,306.087a1.552,1.552,0,0,0,1.552,1.552H150.9a1.293,1.293,0,0,0,1.293,1.293h1.552a1.293,1.293,0,0,0,1.293-1.293v-1.552Z" transform="translate(-143.015 -298.587)" fill="#f0f0f0"/>
+      <path id="Path_2548" data-name="Path 2548" d="M348.861,144.7v3.621a1.036,1.036,0,0,1-1.034,1.034V150.9a2.589,2.589,0,0,0,2.586-2.586V144.7Z" transform="translate(-336.705 -144.696)" fill="#f0f0f0"/>
+      <path id="Path_2549" data-name="Path 2549" d="M109.556,148.317a1.036,1.036,0,0,1-1.034,1.034V150.9a2.589,2.589,0,0,0,2.586-2.586V144.7h-1.552Z" transform="translate(-108.522 -144.696)" fill="#f0f0f0"/>
+      <rect id="Rectangle_8444" data-name="Rectangle 8444" width="1.552" height="3.621" transform="translate(9.828 0)" fill="#f0f0f0"/>
+      <path id="Path_2550" data-name="Path 2550" d="M185.008,146.764a.259.259,0,0,1-.517,0v-2.069h-1.552v2.069a.259.259,0,0,1-.517,0v-2.069H180.87v2.069a1.809,1.809,0,0,0,2.845,1.484,1.795,1.795,0,0,0,1.263.311,1.035,1.035,0,0,1-1,.791V150.9a2.589,2.589,0,0,0,2.586-2.586v-3.621h-1.552v2.069Z" transform="translate(-177.508 -144.695)" fill="#f0f0f0"/>
+      <rect id="Rectangle_8445" data-name="Rectangle 8445" width="2.328" height="1.552" transform="translate(3.362 4.655)" fill="#f0f0f0"/>
+    </g>
+  </g>
+  <rect id="Rectangle_5" data-name="Rectangle 5" width="32" height="32" fill="none"/>
+</svg>

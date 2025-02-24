@@ -1,0 +1,9 @@
+<svg id="verified-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_9380" data-name="Rectangle 9380" width="24" height="24" fill="none"/>
+  <g id="shield" transform="translate(-18.724 4)">
+    <path id="Path_98" data-name="Path 98" d="M30.983,16h0A11.174,11.174,0,0,0,38.242,5.535V2.71A2.71,2.71,0,0,1,35.532,0h-9.1a2.71,2.71,0,0,1-2.71,2.71V5.535A11.174,11.174,0,0,0,30.983,16Z" fill="#09d"/>
+    <path id="Path_99" data-name="Path 99" d="M256,16h0a11.173,11.173,0,0,0,7.259-10.465V2.71A2.71,2.71,0,0,1,260.549,0H256V16Z" transform="translate(-225.017)" fill="#0080dd"/>
+    <path id="Path_100" data-name="Path 100" d="M149.046,167.891l-2.406-2.406,1.326-1.326,1.081,1.081,3.1-3.1,1.326,1.326Z" transform="translate(-119.075 -157.07)" fill="#f1f1f2"/>
+    <path id="Path_101" data-name="Path 101" d="M256,166.88v-2.652l2.092-2.092,1.326,1.326Z" transform="translate(-225.017 -157.07)" fill="#e6e6e6"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="flag_uae_32x32" data-name="flag uae 32x32" transform="translate(-577 -231)">
+    <g id="united-arab-emirates_1_" data-name="united-arab-emirates (1)" transform="translate(578 231.999)">
+      <circle id="Ellipse_825" data-name="Ellipse 825" cx="15" cy="15" r="15" transform="translate(0 0.001)" fill="#fff"/>
+      <path id="Path_2557" data-name="Path 2557" d="M323.352,157.873h-9.134a40.987,40.987,0,0,1,.008,9.827h9.146a14.838,14.838,0,0,0-.019-9.827Z" transform="translate(-294.55 -147.99)" fill="#efecec"/>
+      <path id="Path_2558" data-name="Path 2558" d="M261.617,10.793h9.134l0-.013A14.834,14.834,0,0,0,258.105.972C260.374,2.216,261.037,6.157,261.617,10.793Z" transform="translate(-241.95 -0.91)" fill="#429945"/>
+      <path id="Path_2559" data-name="Path 2559" d="M258.113,324.747a14.834,14.834,0,0,0,12.651-9.837c0-.014.009-.028.014-.042h-9.146C261.057,319.529,260.391,323.5,258.113,324.747Z" transform="translate(-241.957 -295.159)" fill="#0b0b0b"/>
+      <path id="Path_2560" data-name="Path 2560" d="M0,162.815A14.8,14.8,0,0,0,.827,167.7H20.439a40.99,40.99,0,0,0-.007-9.827H.847A14.794,14.794,0,0,0,0,162.815Z" transform="translate(0 -147.989)" fill="#efefef"/>
+      <path id="Path_2561" data-name="Path 2561" d="M13.538,9.87l0,.013H33.117c-.58-4.636-2.006-8.577-4.276-9.821C28.4.023,27.959,0,27.51,0A14.827,14.827,0,0,0,13.538,9.87Z" transform="translate(-12.686 0)" fill="#49a948"/>
+      <path id="Path_2562" data-name="Path 2562" d="M32.83,314.867H13.219l.014.042a14.828,14.828,0,0,0,13.982,9.9c.449,0,.893-.022,1.332-.061C30.826,323.5,32.255,319.528,32.83,314.867Z" transform="translate(-12.392 -295.158)" fill="#151515"/>
+      <path id="Path_2563" data-name="Path 2563" d="M0,31.791A14.828,14.828,0,0,0,9.136,45.482V18.1A14.827,14.827,0,0,0,0,31.791Z" transform="translate(0 -16.965)" fill="#e73b36"/>
+    </g>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="32" height="32" transform="translate(577 231)" fill="none"/>
+  </g>
+</svg>

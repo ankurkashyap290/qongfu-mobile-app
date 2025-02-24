@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="16096" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="480" height="480"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Powered by Qongfu" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="9" translatesAutoresizingMaskIntoConstraints="NO" id="8ie-xW-0ye">
+                    <rect key="frame" x="20" y="439" width="441" height="21"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" image="512" translatesAutoresizingMaskIntoConstraints="NO" id="ns5-zE-dy7">
+                    <rect key="frame" x="154.5" y="154.5" width="171" height="171"/>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="ns5-zE-dy7" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="0Z3-mO-sW8"/>
+                <constraint firstItem="ns5-zE-dy7" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="8F5-b2-Wfl"/>
+                <constraint firstItem="ns5-zE-dy7" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="Dnq-wh-Fgd"/>
+                <constraint firstAttribute="bottom" secondItem="8ie-xW-0ye" secondAttribute="bottom" constant="20" id="Kzo-t9-V3l"/>
+                <constraint firstItem="8ie-xW-0ye" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="20" symbolic="YES" id="MfP-vx-nX0"/>
+                <constraint firstItem="ns5-zE-dy7" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="Uj6-1U-SyE"/>
+                <constraint firstItem="ns5-zE-dy7" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="X8c-Uh-3Xm"/>
+                <constraint firstAttribute="centerX" secondItem="8ie-xW-0ye" secondAttribute="centerX" id="ZEH-qu-HZ9"/>
+                <constraint firstItem="ns5-zE-dy7" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="a8v-Me-9cP"/>
+                <constraint firstItem="ns5-zE-dy7" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="bBb-jp-9T8"/>
+                <constraint firstItem="ns5-zE-dy7" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="dOl-QX-MsD"/>
+                <constraint firstItem="ns5-zE-dy7" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="efQ-j9-GGZ"/>
+                <constraint firstItem="ns5-zE-dy7" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="hpE-ZW-gRy"/>
+                <constraint firstItem="ns5-zE-dy7" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="nq8-3k-RjP"/>
+                <constraint firstItem="ns5-zE-dy7" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="pnz-F2-IEz"/>
+                <constraint firstItem="ns5-zE-dy7" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="rMZ-ZH-EDz"/>
+                <constraint firstItem="ns5-zE-dy7" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="smI-HU-Rj0"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="33.600000000000001" y="83.658170914542737"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="512" width="170.66667175292969" height="170.66667175292969"/>
+    </resources>
+</document>

@@ -1,0 +1,20 @@
+<svg id="report-post-icon" xmlns="http://www.w3.org/2000/svg" width="104" height="104" viewBox="0 0 104 104">
+  <rect id="Rectangle_9394" data-name="Rectangle 9394" width="104" height="104" fill="none"/>
+  <g id="alert" transform="translate(8 12)">
+    <g id="Group_9429" data-name="Group 9429" transform="translate(0 0)">
+      <g id="Group_9428" data-name="Group 9428" transform="translate(0 0)">
+        <path id="Path_2681" data-name="Path 2681" d="M86.6,90.588,52.961,31.557a10.281,10.281,0,0,0-17.923,0L1.4,90.588a10.5,10.5,0,0,0,0,10.485,10.219,10.219,0,0,0,8.961,5.242H77.636a10.22,10.22,0,0,0,8.962-5.242A10.5,10.5,0,0,0,86.6,90.588Zm-4.465,7.873a5.128,5.128,0,0,1-4.5,2.63H10.364a5.127,5.127,0,0,1-4.5-2.63,5.267,5.267,0,0,1,0-5.261L39.5,34.169a5.158,5.158,0,0,1,8.993,0L82.132,93.2A5.268,5.268,0,0,1,82.132,98.461Z" transform="translate(0 -26.315)" fill="red"/>
+      </g>
+    </g>
+    <g id="Group_9431" data-name="Group 9431" transform="translate(41.422 26.235)">
+      <g id="Group_9430" data-name="Group 9430">
+        <rect id="Rectangle_8699" data-name="Rectangle 8699" width="5.156" height="25.778" fill="red"/>
+      </g>
+    </g>
+    <g id="Group_9433" data-name="Group 9433" transform="translate(40.563 57.485)">
+      <g id="Group_9432" data-name="Group 9432" transform="translate(0 0)">
+        <path id="Path_2682" data-name="Path 2682" d="M239.439,355.99a3.437,3.437,0,1,0,3.437,3.437A3.441,3.441,0,0,0,239.439,355.99Z" transform="translate(-236.002 -355.99)" fill="red"/>
+      </g>
+    </g>
+  </g>
+</svg>

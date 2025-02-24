@@ -1,0 +1,8 @@
+<svg id="flag_bahrain_32x32" data-name="flag bahrain 32x32" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <rect id="Rectangle_5" data-name="Rectangle 5" width="32" height="32" fill="none"/>
+  <path id="Path_2620" data-name="Path 2620" d="M0,0H32V32H0Z" fill="none"/>
+  <g id="bahrain_2_" data-name="bahrain (2)" transform="translate(1 1)">
+    <circle id="Ellipse_821" data-name="Ellipse 821" cx="15" cy="15" r="15" fill="#f0f0f0"/>
+    <path id="Path_2542" data-name="Path 2542" d="M109.3,0a14.927,14.927,0,0,0-8.161,2.414L105,5l-4.825,2.5L105,10l-4.825,2.5L105,15l-4.825,2.5L105,20l-4.825,2.5L105,25l-3.858,2.586A15,15,0,1,0,109.3,0Z" transform="translate(-94.305)" fill="#d80027"/>
+  </g>
+</svg>

@@ -1,0 +1,245 @@
+import {StyleSheet} from 'react-native';
+import theme from './theme.style';
+
+const styles = StyleSheet.create({
+  imageContainer: {
+    flexDirection: 'column',
+    height: 200,
+    position: 'relative',
+  },
+  image: {
+    flex: 1,
+    resizeMode: 'cover',
+  },
+  headerContainer: {
+    paddingBottom: 20,
+    flexDirection: 'column',
+    alignItems: 'center',
+    // height: 170,
+    position: 'absolute',
+    width: '100%',
+    top: 120,
+    // backgroundColor: 'red',
+  },
+
+  headerAvatar: {
+    // position: 'absolute',
+    // top: -70,
+    // left: '30%',
+    alignItems: 'center',
+    zIndex: 1,
+  },
+  cameraIcon: {
+    backgroundColor: '#000',
+    opacity: 0.5,
+    borderRadius: 5,
+    paddingLeft: 12,
+    paddingRight: 12,
+    paddingTop: 6,
+    paddingBottom: 6,
+  },
+  cameraIconContainer: {
+    position: 'absolute',
+    top: 100,
+    left: 30,
+    width: '100%',
+    alignItems: 'center',
+    zIndex: 99,
+    // backgroundColor: 'green',
+  },
+  cameraCoverIcon: {
+    position: 'absolute',
+    right: 10,
+    top: 10,
+    alignItems: 'center',
+    zIndex: 99,
+  },
+  fieldHeadings: {
+    fontSize: 13,
+    color: '#a3a3a3',
+    marginTop: 10,
+    marginLeft: 20,
+  },
+  fieldValues: {
+    marginLeft: 25,
+    fontSize: 18,
+    color: '#474747',
+    marginBottom: 20,
+    marginTop: 20,
+  },
+  textFieldLabels: {
+    fontSize: 13,
+    color: '#939393',
+    marginLeft: 20,
+    marginBottom: 10,
+    marginTop: 10,
+  },
+  textInputField: {
+    marginLeft: 20,
+    marginRight: 20,
+    backgroundColor: '#ffffff',
+    borderRadius: 5,
+    borderColor: '#efefef',
+    borderWidth: 1,
+    textAlign: 'center',
+  },
+  listItem: {
+    width: '90%',
+    marginLeft: 20,
+    padding: 10,
+    borderRadius: 5,
+    borderColor: '#efefef',
+    borderWidth: 1,
+  },
+  dobModalHeading: {
+    fontSize: 24,
+    color: theme.PRIMARY_COLOR,
+    textAlign: 'center',
+    marginTop: 20,
+  },
+  dobModalSubHeading: {
+    fontSize: 14,
+    color: '#858585',
+    textAlign: 'center',
+    marginTop: 10,
+  },
+
+  modalButton: {
+    backgroundColor: theme.PRIMARY_COLOR,
+    borderRadius: 30,
+    width: 200,
+    marginBottom: 20,
+  },
+  modalButtonLable: {
+    fontSize: 18,
+    paddingBottom: 10,
+    paddingTop: 10,
+    textTransform: 'none',
+  },
+  updateButtonContainer: {
+    alignItems: 'center',
+    marginTop: 10,
+  },
+  updateButtonLable: {
+    fontSize: 18,
+    paddingBottom: 10,
+    paddingTop: 10,
+    textTransform: 'none',
+  },
+  updateButton: {
+    backgroundColor: theme.PRIMARY_COLOR,
+    borderRadius: 10,
+    width: 250,
+  },
+  personalInfoListItem: {
+    fontSize: 18,
+    color: '#404040',
+  },
+  selectedLanguageChip: {
+    margin: 10,
+    padding: 2,
+    backgroundColor: '#5c5c5c',
+    borderRadius: 20,
+  },
+  languagesContainer: {
+    flexDirection: 'row',
+    marginTop: 10,
+    flex: 1,
+    flexWrap: 'wrap',
+    minHeight: 100,
+  },
+  selectedLanguageChipText: {
+    color: '#fff',
+    fontSize: 13,
+  },
+  addLanguageText: {
+    fontSize: 18,
+    color: '#9f9e9e',
+    textAlign: 'center',
+    marginTop: 10,
+  },
+  languageDivider: {
+    margin: 10,
+    height: 2,
+  },
+  successDialogHeading: {
+    fontSize: 18,
+    color: theme.PRIMARY_COLOR,
+    textAlign: 'center',
+    marginTop: 20,
+  },
+  successButton: {
+    backgroundColor: theme.PRIMARY_COLOR,
+    borderRadius: 10,
+    width: 200,
+    marginBottom: 20,
+  },
+  successButtonLable: {
+    fontSize: 18,
+    paddingBottom: 10,
+    paddingTop: 10,
+    textTransform: 'none',
+  },
+  modalResetButton: {
+    marginBottom: 20,
+  },
+  modalResetButtonLable: {
+    fontSize: 18,
+    paddingBottom: 10,
+    paddingTop: 10,
+    textTransform: 'none',
+  },
+  cameraIconCt: {
+    position: 'absolute',
+    left: 0,
+    padding: 0,
+    width: '100%',
+    alignItems: 'center',
+    zIndex: 999,
+  },
+  drawerContainer: {
+    flex: 1,
+    flexDirection: 'column',
+    justifyContent: 'center',
+    elevation: 2,
+    borderTopWidth: 0,
+  },
+
+  selectedCircleIcon: {
+    height: 23,
+    width: 23,
+    borderRadius: 15,
+    borderWidth: 2,
+    borderColor: theme.PRIMARY_COLOR,
+    backgroundColor: '#54b948',
+  },
+
+  circleIcon: {
+    height: 23,
+    width: 23,
+    borderRadius: 15,
+    borderWidth: 2,
+    borderColor: theme.PRIMARY_COLOR,
+    backgroundColor: '#fff',
+  },
+  fakeSheetCt: {
+    backgroundColor: '#fff',
+    width: '100%',
+    position: 'absolute',
+    bottom: 0,
+    height: 120,
+    // marginBottom: 10,
+    // paddingBottom: 10,
+  },
+  drawerHandler: {
+    alignItems: 'center',
+  },
+  dobErrorText: {
+    fontSize: 13.6,
+    marginLeft: 10,
+    color: '#ff2121',
+    paddingTop: 0,
+  },
+});
+
+export default styles;

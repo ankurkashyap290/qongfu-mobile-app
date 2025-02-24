@@ -1,0 +1,10 @@
+<svg id="settings-invite-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Group_9407" data-name="Group 9407" transform="translate(-16 -308)">
+    <g id="Group_9404" data-name="Group 9404" transform="translate(0 72)">
+      <rect id="Rectangle_8439" data-name="Rectangle 8439" width="32" height="32" transform="translate(16 236)" fill="none"/>
+    </g>
+  </g>
+  <g id="share_1_" data-name="share (1)" transform="translate(5 5)">
+    <path id="Path_1624" data-name="Path 1624" d="M31.637,15a4.18,4.18,0,0,0-3.307,1.629L21.914,13.05a4.189,4.189,0,0,0,.233-1.377,4.1,4.1,0,0,0-.238-1.382L28.32,6.712a4.171,4.171,0,1,0-.863-2.536,4.077,4.077,0,0,0,.238,1.382L21.288,9.137A4.172,4.172,0,1,0,21.3,14.2l6.411,3.584A4.173,4.173,0,1,0,31.637,15Zm0-13.691A2.866,2.866,0,1,1,28.771,4.18,2.869,2.869,0,0,1,31.637,1.314ZM17.98,14.539a2.866,2.866,0,1,1,2.866-2.866A2.869,2.869,0,0,1,17.98,14.539Zm13.657,7.5A2.866,2.866,0,1,1,34.5,19.176,2.869,2.869,0,0,1,31.637,22.042Z" transform="translate(-13.8)" fill="#b5b5b5"/>
+  </g>
+</svg>

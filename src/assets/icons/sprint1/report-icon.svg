@@ -1,0 +1,8 @@
+<svg id="report-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <rect id="Rectangle_9392" data-name="Rectangle 9392" width="32" height="32" fill="none"/>
+  <g id="flag" transform="translate(-40 4)">
+    <g id="Group_9943" data-name="Group 9943" transform="translate(46)">
+      <path id="Path_2697" data-name="Path 2697" d="M65.637,14.083,63.867,9.656,65.637,5.23a.7.7,0,0,0-.653-.964h-8.2V2.625a.7.7,0,0,0-.7-.7H47.406V.7A.7.7,0,1,0,46,.7V23.3a.7.7,0,0,0,1.406,0V12.7h5.625v1.641a.7.7,0,0,0,.7.7h11.25a.7.7,0,0,0,.653-.964ZM55.375,11.3H47.406V3.328h7.969Zm.057,2.344L56.575,12.5a.711.711,0,0,0,.206-.5V5.672h7.165L62.457,9.4a.7.7,0,0,0,0,.522l1.489,3.723Z" transform="translate(-46)" fill="#919191"/>
+    </g>
+  </g>
+</svg>

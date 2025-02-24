@@ -1,0 +1,11 @@
+<svg id="more-info-wifi-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_9384" data-name="Rectangle 9384" width="24" height="24" fill="none"/>
+  <g id="wifi" transform="translate(3 -54.725)">
+    <g id="Group_8956" data-name="Group 8956" transform="translate(0 59.725)">
+      <path id="Path_2627" data-name="Path 2627" d="M72.181,163.863a.965.965,0,0,0,1.365,1.365,6.67,6.67,0,0,1,9.421,0,.964.964,0,0,0,1.361-1.365A8.6,8.6,0,0,0,72.181,163.863Z" transform="translate(-69.255 -157.611)" fill="#919191"/>
+      <path id="Path_2628" data-name="Path 2628" d="M142.981,262.922a.965.965,0,0,0,1.365,1.365,2.975,2.975,0,0,1,4.208,0,.962.962,0,0,0,1.361-1.361A4.9,4.9,0,0,0,142.981,262.922Z" transform="translate(-137.45 -254.065)" fill="#919191"/>
+      <circle id="Ellipse_838" data-name="Ellipse 838" cx="1.284" cy="1.284" r="1.284" transform="translate(7.716 11.038)" fill="#919191"/>
+      <path id="Path_2629" data-name="Path 2629" d="M17.719,63.328a12.349,12.349,0,0,0-17.437,0,.965.965,0,1,0,1.365,1.365,10.411,10.411,0,0,1,14.711,0,.964.964,0,1,0,1.361-1.365Z" transform="translate(0 -59.725)" fill="#919191"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg id="dashboard-bodyfat-icon" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <rect id="Rectangle_9417" data-name="Rectangle 9417" width="48" height="48" fill="none"/>
+  <g id="percentage_1_" data-name="percentage (1)" transform="translate(3 3)">
+    <path id="Shape" d="M19.461,24.454V6.71a.671.671,0,0,0-.71-.71A18.463,18.463,0,0,0,13.5,41.914a18.623,18.623,0,0,0,13.414-.568l11-16.537a17.965,17.965,0,0,0-.923-6.1.727.727,0,0,0-.355-.426.777.777,0,0,0-.568,0Z" transform="translate(-1 -1.741)" fill="#955ba5"/>
+    <path id="Path_3001" data-name="Path 3001" d="M19.451,30.259l-5.962,17.46A18.392,18.392,0,0,1,1.494,26Z" transform="translate(-0.989 -7.546)" fill="#e64c3c"/>
+    <path id="Path_3002" data-name="Path 3002" d="M19.657,6.71V24.454L1.7,20.2A18.54,18.54,0,0,1,18.947,6,.671.671,0,0,1,19.657,6.71Z" transform="translate(-1.196 -1.741)" fill="#f29c1f"/>
+    <path id="Path_3003" data-name="Path 3003" d="M47.608,12.279,31.923,18.1a.667.667,0,0,1-.639-.071A.876.876,0,0,1,31,17.46V.71A.671.671,0,0,1,31.71,0,18.448,18.448,0,0,1,48.034,11.356a.784.784,0,0,1,0,.568.727.727,0,0,1-.426.355Z" transform="translate(-9.7 0)" fill="#f3d55b"/>
+    <circle id="Oval" cx="9.937" cy="9.937" r="9.937" transform="translate(21.3 21.293)" fill="#4fba6f"/>
+    <g id="Group_10321" data-name="Group 10321" transform="translate(26.269 26.234)">
+      <path id="Path_3004" data-name="Path 3004" d="M38.71,46.926a.7.7,0,0,1-.5-1.207L46.73,37.2a.681.681,0,0,1,.71-.213.857.857,0,0,1,.5.5.72.72,0,0,1-.213.71l-8.517,8.517A.644.644,0,0,1,38.71,46.926Z" transform="translate(-38 -36.962)" fill="#fff"/>
+      <circle id="Ellipse_879" data-name="Ellipse 879" cx="1.42" cy="1.42" r="1.42" transform="translate(0 0.027)" fill="#fff"/>
+      <circle id="Ellipse_880" data-name="Ellipse 880" cx="1.42" cy="1.42" r="1.42" transform="translate(7.098 7.124)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

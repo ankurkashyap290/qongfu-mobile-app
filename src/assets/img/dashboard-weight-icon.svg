@@ -1,0 +1,27 @@
+<svg id="dashboard-weight-icon" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <rect id="Rectangle_9415" data-name="Rectangle 9415" width="48" height="48" fill="none"/>
+  <g id="weight-scale" transform="translate(4.263 4.263)">
+    <path id="Path_2981" data-name="Path 2981" d="M36.245,0H3.493A3.5,3.5,0,0,0,0,3.493V36.245a3.5,3.5,0,0,0,3.493,3.493H36.245a3.5,3.5,0,0,0,3.493-3.493V3.493A3.5,3.5,0,0,0,36.245,0Z" transform="translate(0 0)" fill="#8ad7e6"/>
+    <path id="Path_2982" data-name="Path 2982" d="M275.869,36.245V3.493A3.5,3.5,0,0,0,272.376,0H256V39.737h16.376A3.5,3.5,0,0,0,275.869,36.245Z" transform="translate(-236.131 0)" fill="#5bb7e6"/>
+    <path id="Path_2983" data-name="Path 2983" d="M97.034,64.013a41.4,41.4,0,0,0-26.8,0l-1.1.374,3.739,11.026,1.1-.373a30.35,30.35,0,0,1,19.325,0l1.1.373,3.739-11.026Z" transform="translate(-63.765 -56.989)" fill="#ebf8ff"/>
+    <path id="Path_2984" data-name="Path 2984" d="M266.764,75.412,270.5,64.387l-1.1-.374A41.666,41.666,0,0,0,256,61.784V73.46a30.213,30.213,0,0,1,9.662,1.579Z" transform="translate(-236.131 -56.989)" fill="#cce6ff"/>
+    <path id="Path_2985" data-name="Path 2985" d="M126.343,93.093l-1.509.725-.786-1.118a38.844,38.844,0,0,0-4.095-.331L118.79,93.5l-1.164-1.131a38.822,38.822,0,0,0-4.095.331l-.754,1.5-1.54-1.105a39.842,39.842,0,0,0-3.992.979l2.245,6.621a32.551,32.551,0,0,1,8.136-1.308l1.164-1.3,1.164,1.3a32.55,32.55,0,0,1,8.136,1.308l2.245-6.621a39.862,39.862,0,0,0-3.992-.979Z" transform="translate(-98.921 -85.2)" fill="#4a696f"/>
+    <path id="Path_2986" data-name="Path 2986" d="M265.3,100.693l2.245-6.621a39.82,39.82,0,0,0-3.992-.979l-1.509.725-.786-1.118a38.848,38.848,0,0,0-4.095-.331L256,93.5v4.584l1.164,1.3A32.55,32.55,0,0,1,265.3,100.693Z" transform="translate(-236.131 -85.2)" fill="#384949"/>
+    <g id="Group_10317" data-name="Group 10317" transform="translate(4.734 21.033)">
+      <path id="Path_2987" data-name="Path 2987" d="M91,271h6.985v2.328H91Z" transform="translate(-88.672 -271)" fill="#5bb7e6"/>
+      <path id="Path_2988" data-name="Path 2988" d="M61,331H72.642v2.328H61Z" transform="translate(-61 -326.343)" fill="#5bb7e6"/>
+      <path id="Path_2989" data-name="Path 2989" d="M91,391h6.985v2.328H91Z" transform="translate(-88.672 -381.687)" fill="#5bb7e6"/>
+    </g>
+    <path id="Path_2990" data-name="Path 2990" d="M331,271h6.985v2.328H331Z" transform="translate(-305.31 -249.967)" fill="#2e8ae6"/>
+    <path id="Path_2991" data-name="Path 2991" d="M301,331h11.642v2.328H301Z" transform="translate(-277.639 -305.31)" fill="#2e8ae6"/>
+    <path id="Path_2992" data-name="Path 2992" d="M331,391h6.985v2.328H331Z" transform="translate(-305.31 -360.654)" fill="#2e8ae6"/>
+    <path id="Path_2993" data-name="Path 2993" d="M161.351,98.916l-.378-2.282c-.767.1-1.531.242-2.294.393l.376,2.269Z" transform="translate(-146.363 -89.134)" fill="#384949"/>
+    <path id="Path_2994" data-name="Path 2994" d="M321.183,99.3l.376-2.269c-.763-.151-1.527-.288-2.294-.393l-.378,2.282Z" transform="translate(-294.138 -89.135)" fill="#293939"/>
+    <path id="Path_2995" data-name="Path 2995" d="M242.164,241H241v16.3h2.328V241Z" transform="translate(-222.296 -222.296)" fill="#5bb7e6"/>
+    <path id="Path_2996" data-name="Path 2996" d="M256,241h1.164v16.3H256Z" transform="translate(-236.131 -222.296)" fill="#2e8ae6"/>
+    <path id="Path_2997" data-name="Path 2997" d="M242.164,92.308c-.388,0-.776-.012-1.164,0V94.6h2.328V92.308C242.94,92.3,242.552,92.308,242.164,92.308Z" transform="translate(-222.296 -85.139)" fill="#384949"/>
+    <path id="Path_2998" data-name="Path 2998" d="M257.164,92.309c-.388-.012-.776,0-1.164,0V94.6h1.164Z" transform="translate(-236.131 -85.14)" fill="#293939"/>
+    <path id="Path_2999" data-name="Path 2999" d="M242.164,151H241v2.466c.388-.014.776-.042,1.164-.042s.776.028,1.164.042V151Z" transform="translate(-222.296 -139.281)" fill="#ff6c6c"/>
+    <path id="Path_3000" data-name="Path 3000" d="M257.164,151H256v2.424c.388,0,.776.028,1.164.042Z" transform="translate(-236.131 -139.281)" fill="#e63950"/>
+  </g>
+</svg>

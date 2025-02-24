@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="131" height="34.461" viewBox="0 0 131 34.461">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #54b948;
+        font-size: 14px;
+        font-family: Poppins-Medium, Poppins;
+        font-weight: 500;
+      }
+
+      .cls-2 {
+        fill: #1792d9;
+      }
+
+      .cls-3 {
+        fill: #0e67a9;
+      }
+
+      .cls-4 {
+        fill: #f1f1f2;
+      }
+
+      .cls-5 {
+        fill: #e6e6e6;
+      }
+    </style>
+  </defs>
+  <g id="Group_10120" data-name="Group 10120" transform="translate(-128 -456)">
+    <text id="Verified_Seal" data-name="Verified Seal" class="cls-1" transform="translate(171 477)"><tspan x="0" y="0">Verified Seal</tspan></text>
+    <g id="Group_10119" data-name="Group 10119" transform="translate(-98 10.977)">
+      <path id="Path_98" data-name="Path 98" class="cls-2" d="M39.358,34.461h0a24.066,24.066,0,0,0,15.634-22.54V5.837A5.837,5.837,0,0,1,49.156,0h-19.6a5.837,5.837,0,0,1-5.837,5.837v6.084a24.066,24.066,0,0,0,15.634,22.54Z" transform="translate(202.276 445.023)"/>
+      <path id="Path_99" data-name="Path 99" class="cls-3" d="M256,34.461h0a24.065,24.065,0,0,0,15.634-22.54V5.837A5.837,5.837,0,0,1,265.8,0H256V34.461Z" transform="translate(-14.365 445.023)"/>
+      <path id="Path_100" data-name="Path 100" class="cls-4" d="M151.823,174.531l-5.183-5.183,2.856-2.856,2.327,2.327,6.683-6.683,2.856,2.856Z" transform="translate(87.634 293.799)"/>
+      <path id="Path_101" data-name="Path 101" class="cls-5" d="M256,172.353v-5.711l4.505-4.505,2.856,2.856Z" transform="translate(-14.365 293.799)"/>
+    </g>
+  </g>
+</svg>

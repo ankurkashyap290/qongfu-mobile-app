@@ -1,0 +1,25 @@
+<svg id="checkin-icon" xmlns="http://www.w3.org/2000/svg" width="112" height="112" viewBox="0 0 112 112">
+  <rect id="Rectangle_9396" data-name="Rectangle 9396" width="112" height="112" fill="none"/>
+  <g id="calendar" transform="translate(8 8)">
+    <g id="Group_10199" data-name="Group 10199" transform="translate(20.571)">
+      <g id="Group_10198" data-name="Group 10198">
+        <path id="Path_2856" data-name="Path 2856" d="M105.829,0A3.429,3.429,0,0,0,102.4,3.429v6.857h6.857V3.429A3.429,3.429,0,0,0,105.829,0Z" transform="translate(-102.4 0)" fill="#78c56f"/>
+      </g>
+    </g>
+    <g id="Group_10201" data-name="Group 10201" transform="translate(68.571)">
+      <g id="Group_10200" data-name="Group 10200">
+        <path id="Path_2857" data-name="Path 2857" d="M344.762,0a3.429,3.429,0,0,0-3.429,3.429v6.857h6.857V3.429A3.428,3.428,0,0,0,344.762,0Z" transform="translate(-341.333 0)" fill="#78c56f"/>
+      </g>
+    </g>
+    <g id="Group_10203" data-name="Group 10203" transform="translate(0 10.286)">
+      <g id="Group_10202" data-name="Group 10202">
+        <path id="Path_2858" data-name="Path 2858" d="M85.714,51.2H75.429V64.914a3.429,3.429,0,1,1-6.857,0V51.2H27.428V64.914a3.429,3.429,0,1,1-6.857,0V51.2H10.286A10.286,10.286,0,0,0,0,61.486v65.143a10.286,10.286,0,0,0,10.286,10.286H85.714A10.286,10.286,0,0,0,96,126.629V61.486A10.286,10.286,0,0,0,85.714,51.2Zm3.428,75.429a3.429,3.429,0,0,1-3.429,3.429H10.286a3.429,3.429,0,0,1-3.429-3.429V82.057H89.143Z" transform="translate(0 -51.2)" fill="#78c56f"/>
+      </g>
+    </g>
+    <g id="Group_10205" data-name="Group 10205" transform="translate(23.999 48.001)">
+      <g id="Group_10204" data-name="Group 10204">
+        <path id="Path_2859" data-name="Path 2859" d="M166.461,239.943a3.429,3.429,0,0,0-4.85,0l-25,25-11.29-11.29a3.429,3.429,0,1,0-4.848,4.852l13.714,13.714a3.428,3.428,0,0,0,4.848,0l27.429-27.429A3.429,3.429,0,0,0,166.461,239.943Z" transform="translate(-119.463 -238.938)" fill="#78c56f"/>
+      </g>
+    </g>
+  </g>
+</svg>

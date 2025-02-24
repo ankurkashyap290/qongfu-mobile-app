@@ -1,0 +1,8 @@
+<svg id="dashboard-activity-missed-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_9425" data-name="Rectangle 9425" width="24" height="24" fill="none"/>
+  <g id="dot" transform="translate(4 4.001)">
+    <g id="Group_10334" data-name="Group 10334" transform="translate(0 -0.001)">
+      <path id="Path_3026" data-name="Path 3026" d="M7.65,0A7.65,7.65,0,1,0,15.3,7.65,7.65,7.65,0,0,0,7.65,0Zm0,13.388A5.738,5.738,0,1,1,13.388,7.65,5.738,5.738,0,0,1,7.65,13.388Z" fill="#f21044"/>
+    </g>
+  </g>
+</svg>

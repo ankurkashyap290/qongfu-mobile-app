@@ -1,0 +1,11 @@
+<svg id="status-rejected-icon" xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <g id="Rectangle_8963" data-name="Rectangle 8963" fill="none" stroke="#0092dd" stroke-width="10">
+    <rect width="128" height="128" rx="64" stroke="none"/>
+    <rect x="5" y="5" width="118" height="118" rx="59" fill="none"/>
+  </g>
+  <g id="Group_10069" data-name="Group 10069" transform="translate(-143 -224)">
+    <circle id="Ellipse_899" data-name="Ellipse 899" cx="8" cy="8" r="8" transform="translate(182 259)" fill="#0092dd"/>
+    <circle id="Ellipse_900" data-name="Ellipse 900" cx="8" cy="8" r="8" transform="translate(217 259)" fill="#0092dd"/>
+  </g>
+  <path id="Path_2743" data-name="Path 2743" d="M-314.088-7424.416s4.2-10.869,19.851-10.588,19.95,10.588,19.95,10.588" transform="translate(358.588 7512.416)" fill="none" stroke="#0092dd" stroke-linecap="round" stroke-width="10"/>
+</svg>

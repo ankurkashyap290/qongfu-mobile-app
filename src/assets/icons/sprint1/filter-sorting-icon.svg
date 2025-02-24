@@ -1,0 +1,15 @@
+<svg id="filter-sorting-icon" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <rect id="Rectangle_8896" data-name="Rectangle 8896" width="40" height="40" fill="none"/>
+  <g id="Group_9869" data-name="Group 9869" transform="translate(9765.326 20348)">
+    <g id="back_1_" data-name="back (1)" transform="translate(-9746.463 -20339) rotate(90)">
+      <g id="Group_9869-2" data-name="Group 9869" transform="translate(0 0)">
+        <path id="Path_2690" data-name="Path 2690" d="M20.951,4.41l.02,0-17.359,0L6.364,1.653a.723.723,0,0,0,0-1.016L5.935.209a.716.716,0,0,0-1.011,0L.209,4.924a.721.721,0,0,0,0,1.014l4.716,4.716a.717.717,0,0,0,1.011,0l.428-.428a.708.708,0,0,0,.209-.505.687.687,0,0,0-.209-.5L3.581,6.453l17.38,0a.741.741,0,0,0,.725-.734V5.118A.727.727,0,0,0,20.951,4.41Z" fill="#0092dd"/>
+      </g>
+    </g>
+    <g id="back_1_2" data-name="back (1)" transform="translate(-9744.54 -20317.248) rotate(-90)">
+      <g id="Group_9869-3" data-name="Group 9869" transform="translate(0 0)">
+        <path id="Path_2690-2" data-name="Path 2690" d="M21.017,4.465l.02,0L3.612,4.41,6.364,1.653a.723.723,0,0,0,0-1.016L5.935.209a.716.716,0,0,0-1.011,0L.209,4.924a.721.721,0,0,0,0,1.014l4.716,4.716a.717.717,0,0,0,1.011,0l.428-.428a.708.708,0,0,0,.209-.505.687.687,0,0,0-.209-.5L3.581,6.453l17.445.059a.741.741,0,0,0,.725-.734V5.172A.727.727,0,0,0,21.017,4.465Z" fill="#0092dd"/>
+      </g>
+    </g>
+  </g>
+</svg>
